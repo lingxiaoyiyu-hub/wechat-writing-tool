@@ -65,18 +65,18 @@ A：可以。公众号与头条、百家号一起进账号台账，登录态隔�
 
 **Q：AI 写的公众号文章 AI 味重怎么办？**
 
-A：写完后可以过一遍「必过朱雀」本地改写，降低 AI 特征；也可以先用两遍式写作（先事实与结构、再文风精修）。
+A：写完后可以过一遍「文本润色」本地改写，降低 AI 特征；也可以先用两遍式写作（先事实与结构、再文风精修）。
 
 **Q：收费吗？**
 
-A：零创是 Windows 桌面商业软件，使用需授权卡密；获取卡密请联系作者（客服 QQ 574719738）。
+A：零创是 Windows 桌面商业软件，使用需授权卡密；授权方式见官网 xcbot.cyou。
 
 ## 下载与咨询
 
 - 官方下载页（魔搭）：<https://www.modelscope.cn/models/lingxiaoyiyu/lingcraft-releases/files>
 - GitHub 发布页：<https://github.com/lingxiaoyiyu-hub/LingCraft-Release/releases>
 - 当前版本：v4.0.0（2026-10-29）
-- 客服 QQ：574719738
+- 授权渠道：官网 xcbot.cyou
 
 > 完整功能、版本更新与更多专题见主仓库：[LingCraft-AI-writing-tool](https://github.com/lingxiaoyiyu-hub/LingCraft-AI-writing-tool)
 
